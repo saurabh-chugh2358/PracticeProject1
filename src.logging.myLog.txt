@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-07-14T22:30:47</date>
+  <millis>1436893247812</millis>
+  <sequence>0</sequence>
+  <logger>logging.simpleLogging</logger>
+  <level>INFO</level>
+  <class>logging.SimpleLoggingExamples</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>doing stuff</message>
+</record>
+<record>
+  <date>2015-07-14T22:30:47</date>
+  <millis>1436893247907</millis>
+  <sequence>1</sequence>
+  <logger>logging.simpleLogging</logger>
+  <level>SEVERE</level>
+  <class>logging.SimpleLoggingExamples</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>dividing by zero</message>
+</record>
+<record>
+  <date>2015-07-14T22:30:47</date>
+  <millis>1436893247907</millis>
+  <sequence>2</sequence>
+  <logger>logging.simpleLogging</logger>
+  <level>INFO</level>
+  <class>logging.SimpleLoggingExamples</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>done</message>
+</record>
+</log>
